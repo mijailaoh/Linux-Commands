@@ -1,0 +1,2 @@
+1. (pwd) para ver en que directorio estoy
+2. 
