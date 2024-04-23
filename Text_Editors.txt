@@ -1,0 +1,26 @@
+###################################### VIM ##################################################
+
+1. Letra (i) para empezar a escribir.
+2. para pasarle comandos a Vim, pulsar (esc) primero y luego dos puntos (:).
+3. para salir del archivo (:q).
+4. para salir del archivo sin guardar(:q!).
+5. para guardar el archivo sin salir (:q).
+6. para guardar el archivo y salir (:wq!).
+7. otra forma de guardar es (:x!).
+8. (:set nu), es un comando para agrear numero de lineas, luego esc.
+9. (:set nu!), es para quitar el numero de la linea, luego esc.
+10. para cortar una linea (dd), sin los dos puntos, en modo esc.
+11. para pegar (p), en modo esc.
+12. copiar una linea (yy), en modo esc..
+13. pegar puede ser con el comadno (o), modo esc.
+14. para cortar dos o tres lineas, el comando es (d2d) o (d3d), (y2y) o (y3y).
+15. para desaser (u) en modo esc.
+16. para reaser (r) en modo esc.
+17. modo visual (v), en modo esc, selecionar texto, una sola (d) para cortar.
+18. buscar (/) en modo esc y agregar el texto que deseamos.
+    18.1 para ir a la sigueinte (n) y para regreasr a ala palabra (shift + n).
+19. para moverse rapidamente entre lineas, en modo esc pulsar el numero de la linea + (j) o (k).
+20. para moverme de palabra en palabra, en modo esc pulsar (w) adelante y (b) para atras.
+
+###################################### NANO ##################################################
+1. 
