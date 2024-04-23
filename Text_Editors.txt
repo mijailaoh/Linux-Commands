@@ -12,7 +12,7 @@
 10. para cortar una linea (dd), sin los dos puntos, en modo esc.
 11. para pegar (p), en modo esc.
 12. copiar una linea (yy), en modo esc..
-13. pegar puede ser con el comadno (o), modo esc.
+13. agregar una nueva linea (o), modo esc.
 14. para cortar dos o tres lineas, el comando es (d2d) o (d3d), (y2y) o (y3y).
 15. para desaser (u) en modo esc.
 16. para reaser (r) en modo esc.
@@ -21,6 +21,9 @@
     18.1 para ir a la sigueinte (n) y para regreasr a ala palabra (shift + n).
 19. para moverse rapidamente entre lineas, en modo esc pulsar el numero de la linea + (j) o (k).
 20. para moverme de palabra en palabra, en modo esc pulsar (w) adelante y (b) para atras.
+21. para moverme entre las palabras, en modo esc me paro sobre una palabra y pulso (*)
+20 para ir a la primera linea, en modo esc pulsar (gg) y para ir a la ultima (block mayuscula + gg)
+21. para ir a una linea en especifico, con block mayuscula ( numero de linea + g)
 
 ###################################### NANO ##################################################
 1. 
